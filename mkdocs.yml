@@ -1,3 +1,10 @@
 site_name: Solo
+site_author: SoloKeys
+site_description: 'Documentation for the SoloKeys project'
+repo_name: 'solokeys/docs'
+repo_url: 'https://gitlab.com/solokeys/docs'
+copyright: 'Copyright &copy; 2018 SoloKeys'
+
 theme:
     name: material
+    logo: 'images/logo-black_on_transparent.svg'
