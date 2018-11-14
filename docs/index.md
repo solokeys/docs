@@ -8,5 +8,6 @@ Generally, documentation for `https://github.com/solokeyssec/<repo>` is hosted a
 
 On the menu as of now:
 
-* [solo.solokeys.io](https://solo.solokeys.io) - hosts documentation for [solokeyssec/solo](https://github.com/solokeyssec/solo).
+* [solo.solokeys.io](https://solo.solokeys.io) - documentation for [solokeyssec/solo](https://github.com/solokeyssec/solo)
+* [stm32l4.solokeys.io](https://stm32l4.solokeys.io) - documentation for [stm32-rs, stm32l4x2 feature](https://github.com/adamgreig/stm32-rs)
 
